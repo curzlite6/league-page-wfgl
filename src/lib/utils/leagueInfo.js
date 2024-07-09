@@ -187,7 +187,7 @@ export const managers = [
       "managerID": "730960407514169344",
       "name": "She Loves the D!",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Remote", // (optional)
+      "location": "Titty Bar", // (optional)
       "bio": "Sugar Daddy at your service",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
@@ -233,7 +233,7 @@ export const managers = [
       "managerID": "865800926743638016",
       "name": "HB Crawdads",
       "tookOver": 2023, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Where they throw the beads", // (optional)
+      "location": "Beads Party", // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
