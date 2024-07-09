@@ -26,7 +26,7 @@ export const managers = [
       "managerID": "76822213722259456",
       "name": "Hellacious Seeds",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": null, // (optional)
+      "location": "Playboy Mansion", // (optional)
       "bio": "Daddy Caleb with a lefty loosey goosey swing",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
