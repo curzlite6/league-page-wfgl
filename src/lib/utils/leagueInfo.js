@@ -7,12 +7,8 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Welcome to the Whiskey Football Golf Legends Dynasty 1QB Football League! Established in 2021, this league is home to 10 dedicated owners who share a passion for football, whiskey, golf and trash talking. Our league is more than just a competition; it's a community of spirited sports enthusiasts who enjoy a good shit-talking session as much as a perfectly executed touchdown.</p>
+  <p>Whether you're strategizing your next trade, discussing the latest NFL headlines over a glass of fine whiskey, or shanking your shot at the golf course with fellow league members, WFGL offers a unique blend of camaraderie and competition. Get ready for another exciting season filled with intense matchups, bold predictions and, of course, plenty of shit-talking. So, prepare your lineups, polish your clubs, and pour yourself a glass (you'll need it)-here's to another season of unforgettable moments, heated battles, and the friendships that make it all worthwhile. Welcome to the league!</p>
 `;
 
 /*   STEP 3   */
