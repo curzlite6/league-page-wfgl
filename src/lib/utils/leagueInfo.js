@@ -9,7 +9,7 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 export const homepageText = `
   <p>Welcome to the Whiskey Football Golf Legends Dynasty 1QB Football League! Established in 2021, this league is home to 10 dedicated owners who share a passion for football, whiskey, golf and trash talking. Our league is more than just a competition; it's a community of spirited sports enthusiasts who enjoy a good shit-talking session as much as a perfectly executed touchdown.</p>
   <p>Whether you're strategizing your next trade, discussing the latest NFL headlines over a glass of fine whiskey, or shanking your shot at the golf course with fellow league members, WFGL offers a unique blend of camaraderie and competition. Get ready for another exciting season filled with intense matchups, bold predictions and, of course, plenty of shit-talking. So, prepare your lineups, polish your clubs, and pour yourself a glass (you'll need it)-here's to another season of unforgettable moments, heated battles, and the friendships that make it all worthwhile. Welcome to the league!</p>
-  "photo": "/managers/draft.png",
+  <img src="/managers/draft.png">
 `;
 
 /*   STEP 3   */
