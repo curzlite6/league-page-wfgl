@@ -5,7 +5,7 @@
 
     const rosters = rostersData.rosters;
 
-    let validGraph = false;
+    let validGraph = true;
 
     let graphs = [];
 
