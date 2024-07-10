@@ -7,9 +7,9 @@
 
     let validGraph = true;
 
-    let graphs = [];
+    let graphs = true;
 
-    let seasonOver = false;
+    let seasonOver = true;
 
     const buildRankings = () => {
         const rosterPowers = [];
