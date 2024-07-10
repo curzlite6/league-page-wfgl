@@ -5,11 +5,11 @@
 
     const rosters = rostersData.rosters;
 
-    let validGraph = true;
+    let validGraph = false;
 
-    let graphs = true;
+    let graphs = [];
 
-    let seasonOver = true;
+    let seasonOver = false;
 
     const buildRankings = () => {
         const rosterPowers = [];
